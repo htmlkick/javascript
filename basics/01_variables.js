@@ -4,6 +4,8 @@ var userPassword ="kjfhdskahfk"
 let userState ="Haryana"
 let userCountry ="India"
 userCity ="jaipur"
+let continentalName;
+
 
 /* 
 Changng all values of variables
@@ -19,7 +21,7 @@ cityName ="South Delhi"
 userState ="Delhi"
 userCountry ="USA"
 
-console.table([userEmail, userPassword, cityName, userState, userCountry]);
+console.table([userEmail, userPassword, cityName, userState, userCountry, continentalName]);
 
 
 

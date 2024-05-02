@@ -22,7 +22,3 @@ userState ="Delhi"
 userCountry ="USA"
 
 console.table([userEmail, userPassword, cityName, userState, userCountry, continentalName]);
-
-
-
-
